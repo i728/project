@@ -1,0 +1,24 @@
+.mainText{
+    margin: 0 10% 5% 10%;
+}
+.title{
+    margin: 5%;
+}
+.link{
+    margin: 45%;
+}
+.lobby{
+    margin-bottom: 50px;
+}
+.lobbyLink{
+    margin: 20px;
+}
+.red{
+    color: red;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+.a{
+    margin-top: 2px;
+    margin-bottom: 100px;
+}
